@@ -8,4 +8,4 @@
 
 | CTF | Team | Placing |
 |---|---|---|
-| [SpookyCTF 2026](https://github.com/zamhedonia/SpookyCTF-2026) | KaTHAstrophe | Top 27% |
+| [SpookyCTF 2026](https://github.com/zamhedonia/SpookyCTF-2026) | KaTHAstrophe | Top 25% |
